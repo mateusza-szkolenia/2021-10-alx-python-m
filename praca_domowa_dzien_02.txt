@@ -1,0 +1,16 @@
+1. Napisz program sprawdzajacy czy podana przez uzytkownika liczba
+jest:
+- wieksza od 10
+- mniejsza lub rowna 15
+- podzielna przez 2 (uzyj operatora modulo)
+
+2. Przyjmij 2 liczby, N oraz K, i wypisz czy N jest podzielne przez K.
+
+3*. Przyjmij 3 liczby calkowite oznaczajace liczbe godzin (0-23) i minut (0-59) na zegarze elektronicznym (24-godzinnym) oraz liczbe minut X
+Wypisz jaka godzina wyswietli sie na zegarze po uplynieciu X minut.
+
+Przyklad:
+Podaj godzine: 12
+Podaj minute: 47
+Podaj ile minut uplynelo: 15
+13:02
