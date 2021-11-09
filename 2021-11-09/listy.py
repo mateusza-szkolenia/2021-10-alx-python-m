@@ -16,3 +16,7 @@ print(f"{uczniowie[-1]=}")
 # trzecia od końca
 print(f"{uczniowie[-3]=}")
 
+print(f"{uczniowie[3:8]=}")
+
+print(f"{uczniowie[-1]=}")
+print(f"{uczniowie[-1:]=}")
