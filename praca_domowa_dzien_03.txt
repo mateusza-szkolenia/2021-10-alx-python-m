@@ -1,0 +1,18 @@
+1. Napisz program, ktory na podstawie dwoch podanych liczb obliczy
+wynik zadanej operacji (dodawanie, odejmowanie, mnozenie,
+dzielenie). W przypadku podania nieprawidlowej operacji program
+ma wyswietlic odpowiedni komunikat o bledzie.
+
+Przykladowy komunikat programu:
+Podaj pierwsza liczbe: 10
+Podaj druga liczbe: 5
+Podaj rodzaj operacji: +
+Wynik: 15
+
+2. Przyjmij 2 liczby i wypisz najwieksza z nich
+dla 7 i 3 wynikiem jest 7
+dla 3 i 5 wynikiem jest 5
+dla 2 i 2 wynikiem jest 2
+
+3. Przyjmij 3 liczby oznaczajace dlugosci odcinkow i wypisz komunikat, czy da sie z tych odcinkow zbudowac trojkat.
+Jesli sie da to wypisz, czy ten trojkat jest rownoboczny, rownoramienny czy roznoboczny.
