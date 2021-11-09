@@ -1,0 +1,17 @@
+1. Napisz program, ktory wypisze ile razy trzeba zastapic liczbe suma jej cyfr aby dostac liczbe jednocyfrowa
+Przykladowo, dla N = 55624 odpowiedzia jest 2, bo
+suma_cyfr(N) == 22, a suma_cyfr(22) == 4
+
+2. W wielu grach planszowych gracz musi rzucic kilkoma kostkami, zsumowac ich wynik i do tego wyniku dodac ewentualny modyfikator.
+Bardzo czesto taki rzut opisuje sie w formacie NkX+M, gdzie
+	N to liczba kosci
+	kX to informacja ile scian ma kazda kostka (zwykla kostka 6-scienna jest zapisywana jako k6, kostka dwunastoscienna bedzie zapisana jako k12, rzut moneta mozna zapisac jako k2, itp.)
+	M to modyfikator, ktory nalezy dodac do sumy wyrzuconych oczek (moze byz rowniez ujemny)
+czyli np.
+	2k6+2 oznacza rzut dwoma koscmi 6-sciennymi, gdzie do sumy oczek nalezy dodac 2
+	3k3-1 oznacza rzut trzema koscmi 3-sciennymi, gdzie od sumy oczek nalezy odjac 1
+Napisz program, ktory przyjmie 3 liczby calkowite: N, X i M, a nastepnie przeprowadzi rzut NkX+M i wypisze jego wynik.
+
+3. Napisz gre w zgadywanke: komputer powinien wylosowac liczbe calkowita z przedzialu 1-1000000 i kazac uzytkownikowi
+zgadywac jaka liczba zostala wylosowana. Po kazdym strzale uzytkownika powinna zostac wypisana informacja czy uzytkownik strzelil
+za nisko/za wysoko/dobrze. Jesli uzytkownik trafi w wylosowana liczbe program powinien sie zakonczyc.
