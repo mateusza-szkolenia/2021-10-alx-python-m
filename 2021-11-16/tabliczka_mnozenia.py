@@ -7,6 +7,10 @@
 # ...
 # 9 x 9 = 81
 
+for a in range(10):
+    for b in range(10):
+        print(f"{a} x {b} = {a * b}")
+
 # Wersja trudniejsza:
 #     0  1  2  3  4  5  6  7  8  9
 

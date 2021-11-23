@@ -1,0 +1,5 @@
+1. Napisz funkcje lista_dzielnikow(n), ktora przyjmie liczbe n i zwroci jej liste dzielnikow.
+Przyklad:
+	print(lista_dzielnikow(24))
+powinno wypisac
+	[1, 2, 3, 4, 6, 8, 12, 24]
